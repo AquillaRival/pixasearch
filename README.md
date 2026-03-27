@@ -121,6 +121,4 @@ Key parameters used:
 
 ---
 
-## 📄 License
-
-MIT
+Created By Harshit Trivedi
