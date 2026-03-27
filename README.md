@@ -1,5 +1,7 @@
 # ◈ PixaSearch
 
+[Deploy Link: https://pixasearch.vercel.app/]
+
 A minimal, elegant image search app powered by the [Pixabay API](https://pixabay.com/api/docs/).
 
 Built with **React + Vite**, featuring a responsive masonry-style grid, image type filters, skeleton loading, infinite scroll, and a full-screen image modal.
